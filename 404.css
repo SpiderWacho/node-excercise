@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+    background-color: rgb(221, 255, 171);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lobster', cursive;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+
+.text-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    font-size: 1.5rem;
+}
+

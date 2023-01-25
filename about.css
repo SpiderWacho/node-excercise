@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+* {
+    margin: 0;
+    padding: 0%;
+}
+.title {
+    height: 30vh;
+    background-color: rgb(230, 169, 224);
+    border-bottom: 1px solid grey;
+    font-family: 'Lobster', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    height: 70vh;
+    background-color: rgb(230, 169, 224);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lorem {
+    text-align: center;
+    padding: 2%;
+}
